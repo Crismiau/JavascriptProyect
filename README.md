@@ -1,15 +1,11 @@
-# 🚀 [Your Awesome Project Name]
+# 🚀 Javascript Technical Exam
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
 **✨ A mind-blowing JavaScript project that will make your coding dreams come true! ✨**
-
-[![Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](your-demo-link-here)
-[![Issues](https://img.shields.io/badge/Issues-Welcome-orange?style=for-the-badge)](your-issues-link-here)
 
 </div>
 
@@ -23,8 +19,6 @@
 - [📦 Installation](#-installation)
 - [🎮 Usage](#-usage)
 - [🏗️ Project Structure](#️-project-structure)
-- [🤝 Contributing](#-contributing)
-- [📝 License](#-license)
 - [👥 Authors](#-authors)
 - [🙏 Acknowledgments](#-acknowledgments)
 
@@ -157,65 +151,15 @@ your-project-name/
 
 ---
 
-## 🤝 Contributing
-
-I love contributions! Here's how you can help make this project even more amazing:
-
-### 🎯 How to Contribute
-
-1. **Fork the repository** 🍴
-2. **Create a feature branch** `git checkout -b feature/amazing-feature`
-3. **Make your changes** ✨
-4. **Commit your changes** `git commit -m 'Add amazing feature'`
-5. **Push to the branch** `git push origin feature/amazing-feature`
-6. **Open a Pull Request** 🚀
-
-### 📋 Contribution Guidelines
-
-- **Code Style**: Follow the existing code style
-- **Testing**: Add tests for new features
-- **Documentation**: Update docs if needed
-- **Be Awesome**: Always be respectful and helpful! 😊
-
----
-
-## 🐛 Bug Reports & Feature Requests
-
-Found a bug? Have a great idea? I want to hear about it!
-
-- **🐛 Bug Report**: [Create an issue](your-issues-link-here) with the bug label
-- **💡 Feature Request**: [Create an issue](your-issues-link-here) with the enhancement label
-- **❓ Question**: [Create an issue](your-issues-link-here) with the question label
-
----
-
 ## 👥 Authors
 
-**Cristian Agudelo** - _Initial work_ - [YourGitHub](https://github.com/crismiau)
-
-**Contributors** - See the [contributors](https://github.com/yourusername/your-project-name/graphs/contributors) page for the full list of amazing people who helped!
-
+**Cristian Agudelo** - _Initial work_ - [My Github](https://github.com/crismiau)
 ---
 
 ## 🙏 Acknowledgments
 
-- **Inspiration**: What inspired you to create this project?
-- **Resources**: Libraries, tools, and resources you used
-- **Community**: People who helped and supported you
+- **Riwi**: Thanks to Riwi for challenging me to create extraordinary things and testing my knowledge.
 - **Coffee**: For keeping you awake during late-night coding sessions ☕
-
----
-
-## 📊 Project Stats
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-project-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/your-project-name?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/your-project-name)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/yourusername/your-project-name)
-
-</div>
 
 ---
 
