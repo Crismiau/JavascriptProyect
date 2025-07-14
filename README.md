@@ -69,7 +69,7 @@ SPA (Single Page Application) for managing users and products, with authenticati
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Crismiau/JavascriptProyect.git
-   cd your-project-name
+   cd JavascriptProyect
    ```
 2. **Install dependencies**
    ```bash
