@@ -1,0 +1,25 @@
+{
+  "name": "examjavascript---copia",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crismiau/JavascriptProyect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Crismiau/JavascriptProyect/issues"
+  },
+  "homepage": "https://github.com/Crismiau/JavascriptProyect#readme",
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Cristian Agudelo",
+      "role": "admin",
+      "phone": "3135443356",
+      "email": "heycristian26@gmail.com",
+      "password": "123456",
+      "id": "784f"
+    },
+    {
+      "id": "6268",
+      "name": "Cleo Alfonso ",
+      "email": "cleoalfonso@gmail.com",
+      "password": "123456",
+      "role": "admin",
+      "phone": "3135443356"
+    },
+    {
+      "name": "Alberto Perez",
+      "role": "usuario",
+      "phone": "3105843823",
+      "email": "albertoperez@gmail.com",
+      "password": "123456",
+      "id": "968d"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "title": "moto",
+      "description": "moto muy linda para montar",
+      "price": 2300,
+      "stock": 20
+    },
+    {
+      "id": "851d",
+      "title": "salchipapa",
+      "description": "salchipapa muy rica",
+      "price": 2322,
+      "stock": 23
+    },
+    {
+      "title": "perro",
+      "description": "perritooo",
+      "price": 23,
+      "stock": 2,
+      "id": "9f8a"
+    }
+  ],
+  "enrollments": []
+}
