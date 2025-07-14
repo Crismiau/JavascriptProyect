@@ -68,7 +68,7 @@ SPA (Single Page Application) for managing users and products, with authenticati
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-project-name.git
+   git clone [https://github.com/yourusername/your-project-name.git](https://github.com/Crismiau/Reto-SPA.git)
    cd your-project-name
    ```
 2. **Install dependencies**
