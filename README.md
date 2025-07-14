@@ -128,8 +128,6 @@ ExamJavascript/
 
 - **Riwi**: For the challenge and inspiration to create this project.
 - **json-server**: For making frontend development easier by simulating a real backend.
-- **OpenAI**: For help with code generation and support.
-
 ---
 
 <div align="center">
